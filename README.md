@@ -1,7 +1,6 @@
 # Customer credit risk analysis
-Academic project
 
-This is a customer credit risk analysis for the Churn dataset.
+Customer credit risk analysis for the Churn dataset.
 The analysis has three separate parts:
 
 1) A predictive model to classify the customers as good or bad
